@@ -5,8 +5,13 @@
 
 ## Technologies used
 * React
-* 
-
+* Create React App
+* Components
+* JSX
+* JSX Variables
+* Props
+* State
+* gh-pages
 
 
 ## Github link
