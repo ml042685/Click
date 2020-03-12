@@ -10,5 +10,5 @@
 
 
 ## Heroku link
-* [Click"](https://reactjs.org/blog/2013/06/05/why-react.html)
+* ["Click"]()
 
