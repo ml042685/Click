@@ -9,6 +9,6 @@
 
 
 
-## Heroku link
-* ["Click"]()
+## Github link
+* ["Click"](https://ml042685.github.io/Click/)
 
